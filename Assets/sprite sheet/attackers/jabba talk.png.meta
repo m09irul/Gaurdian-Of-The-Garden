@@ -1,0 +1,2627 @@
+fileFormatVersion: 2
+guid: 84e95f32b04a4fd4298ce9caf201f300
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: jabba talk_0
+  - first:
+      213: 21300002
+    second: jabba talk_1
+  - first:
+      213: 21300004
+    second: jabba talk_2
+  - first:
+      213: 21300006
+    second: jabba talk_3
+  - first:
+      213: 21300008
+    second: jabba talk_4
+  - first:
+      213: 21300010
+    second: jabba talk_5
+  - first:
+      213: 21300012
+    second: jabba talk_6
+  - first:
+      213: 21300014
+    second: jabba talk_7
+  - first:
+      213: 21300016
+    second: jabba talk_8
+  - first:
+      213: 21300018
+    second: jabba talk_9
+  - first:
+      213: 21300020
+    second: jabba talk_10
+  - first:
+      213: 21300022
+    second: jabba talk_11
+  - first:
+      213: 21300024
+    second: jabba talk_12
+  - first:
+      213: 21300026
+    second: jabba talk_13
+  - first:
+      213: 21300028
+    second: jabba talk_14
+  - first:
+      213: 21300030
+    second: jabba talk_15
+  - first:
+      213: 21300032
+    second: jabba talk_16
+  - first:
+      213: 21300034
+    second: jabba talk_17
+  - first:
+      213: 21300036
+    second: jabba talk_18
+  - first:
+      213: 21300038
+    second: jabba talk_19
+  - first:
+      213: 21300040
+    second: jabba talk_20
+  - first:
+      213: 21300042
+    second: jabba talk_21
+  - first:
+      213: 21300044
+    second: jabba talk_22
+  - first:
+      213: 21300046
+    second: jabba talk_23
+  - first:
+      213: 21300048
+    second: jabba talk_24
+  - first:
+      213: 21300050
+    second: jabba talk_25
+  - first:
+      213: 21300052
+    second: jabba talk_26
+  - first:
+      213: 21300054
+    second: jabba talk_27
+  - first:
+      213: 21300056
+    second: jabba talk_28
+  - first:
+      213: 21300058
+    second: jabba talk_29
+  - first:
+      213: 21300060
+    second: jabba talk_30
+  - first:
+      213: 21300062
+    second: jabba talk_31
+  - first:
+      213: 21300064
+    second: jabba talk_32
+  - first:
+      213: 21300066
+    second: jabba talk_33
+  - first:
+      213: 21300068
+    second: jabba talk_34
+  - first:
+      213: 21300070
+    second: jabba talk_35
+  - first:
+      213: 21300072
+    second: jabba talk_36
+  - first:
+      213: 21300074
+    second: jabba talk_37
+  - first:
+      213: 21300076
+    second: jabba talk_38
+  - first:
+      213: 21300078
+    second: jabba talk_39
+  - first:
+      213: 21300080
+    second: jabba talk_40
+  - first:
+      213: 21300082
+    second: jabba talk_41
+  - first:
+      213: 21300084
+    second: jabba talk_42
+  - first:
+      213: 21300086
+    second: jabba talk_43
+  - first:
+      213: 21300088
+    second: jabba talk_44
+  - first:
+      213: 21300090
+    second: jabba talk_45
+  - first:
+      213: 21300092
+    second: jabba talk_46
+  - first:
+      213: 21300094
+    second: jabba talk_47
+  - first:
+      213: 21300096
+    second: jabba talk_48
+  - first:
+      213: 21300098
+    second: jabba talk_49
+  - first:
+      213: 21300100
+    second: jabba talk_50
+  - first:
+      213: 21300102
+    second: jabba talk_51
+  - first:
+      213: 21300104
+    second: jabba talk_52
+  - first:
+      213: 21300106
+    second: jabba talk_53
+  - first:
+      213: 21300108
+    second: jabba talk_54
+  - first:
+      213: 21300110
+    second: jabba talk_55
+  - first:
+      213: 21300112
+    second: jabba talk_56
+  - first:
+      213: 21300114
+    second: jabba talk_57
+  - first:
+      213: 21300116
+    second: jabba talk_58
+  - first:
+      213: 21300118
+    second: jabba talk_59
+  - first:
+      213: 21300120
+    second: jabba talk_60
+  - first:
+      213: 21300122
+    second: jabba talk_61
+  - first:
+      213: 21300124
+    second: jabba talk_62
+  - first:
+      213: 21300126
+    second: jabba talk_63
+  - first:
+      213: 21300128
+    second: jabba talk_64
+  - first:
+      213: 21300130
+    second: jabba talk_65
+  - first:
+      213: 21300132
+    second: jabba talk_66
+  - first:
+      213: 21300134
+    second: jabba talk_67
+  - first:
+      213: 21300136
+    second: jabba talk_68
+  - first:
+      213: 21300138
+    second: jabba talk_69
+  - first:
+      213: 21300140
+    second: jabba talk_70
+  - first:
+      213: 21300142
+    second: jabba talk_71
+  - first:
+      213: 21300144
+    second: jabba talk_72
+  - first:
+      213: 21300146
+    second: jabba talk_73
+  - first:
+      213: 21300148
+    second: jabba talk_74
+  - first:
+      213: 21300150
+    second: jabba talk_75
+  - first:
+      213: 21300152
+    second: jabba talk_76
+  - first:
+      213: 21300154
+    second: jabba talk_77
+  - first:
+      213: 21300156
+    second: jabba talk_78
+  - first:
+      213: 21300158
+    second: jabba talk_79
+  - first:
+      213: 21300160
+    second: jabba talk_80
+  - first:
+      213: 21300162
+    second: jabba talk_81
+  - first:
+      213: 21300164
+    second: jabba talk_82
+  - first:
+      213: 21300166
+    second: jabba talk_83
+  - first:
+      213: 21300168
+    second: jabba talk_84
+  - first:
+      213: 21300170
+    second: jabba talk_85
+  - first:
+      213: 21300172
+    second: jabba talk_86
+  - first:
+      213: 21300174
+    second: jabba talk_87
+  - first:
+      213: 21300176
+    second: jabba talk_88
+  - first:
+      213: 21300178
+    second: jabba talk_89
+  - first:
+      213: 21300180
+    second: jabba talk_90
+  - first:
+      213: 21300182
+    second: jabba talk_91
+  - first:
+      213: 21300184
+    second: jabba talk_92
+  - first:
+      213: 21300186
+    second: jabba talk_93
+  - first:
+      213: 21300188
+    second: jabba talk_94
+  - first:
+      213: 21300190
+    second: jabba talk_95
+  - first:
+      213: 21300192
+    second: jabba talk_96
+  - first:
+      213: 21300194
+    second: jabba talk_97
+  - first:
+      213: 21300196
+    second: jabba talk_98
+  - first:
+      213: 21300198
+    second: jabba talk_99
+  - first:
+      213: 21300200
+    second: jabba talk_100
+  - first:
+      213: 21300202
+    second: jabba talk_101
+  - first:
+      213: 21300204
+    second: jabba talk_102
+  - first:
+      213: 21300206
+    second: jabba talk_103
+  - first:
+      213: 21300208
+    second: jabba talk_104
+  - first:
+      213: 21300210
+    second: jabba talk_105
+  - first:
+      213: 21300212
+    second: jabba talk_106
+  - first:
+      213: 21300214
+    second: jabba talk_107
+  - first:
+      213: 21300216
+    second: jabba talk_108
+  - first:
+      213: 21300218
+    second: jabba talk_109
+  - first:
+      213: 21300220
+    second: jabba talk_110
+  - first:
+      213: 21300222
+    second: jabba talk_111
+  - first:
+      213: 21300224
+    second: jabba talk_112
+  - first:
+      213: 21300226
+    second: jabba talk_113
+  - first:
+      213: 21300228
+    second: jabba talk_114
+  - first:
+      213: 21300230
+    second: jabba talk_115
+  - first:
+      213: 21300232
+    second: jabba talk_116
+  - first:
+      213: 21300234
+    second: jabba talk_117
+  - first:
+      213: 21300236
+    second: jabba talk_118
+  - first:
+      213: 21300238
+    second: jabba talk_119
+  - first:
+      213: 21300240
+    second: jabba talk_120
+  - first:
+      213: 21300242
+    second: jabba talk_121
+  - first:
+      213: 21300244
+    second: jabba talk_122
+  - first:
+      213: 21300246
+    second: jabba talk_123
+  - first:
+      213: 21300248
+    second: jabba talk_124
+  - first:
+      213: 21300250
+    second: jabba talk_125
+  - first:
+      213: 21300252
+    second: jabba talk_126
+  - first:
+      213: 21300254
+    second: jabba talk_127
+  - first:
+      213: 21300256
+    second: jabba talk_128
+  - first:
+      213: 21300258
+    second: jabba talk_129
+  - first:
+      213: 21300260
+    second: jabba talk_130
+  - first:
+      213: 21300262
+    second: jabba talk_131
+  - first:
+      213: 21300264
+    second: jabba talk_132
+  - first:
+      213: 21300266
+    second: jabba talk_133
+  - first:
+      213: 21300268
+    second: jabba talk_134
+  - first:
+      213: 21300270
+    second: jabba talk_135
+  - first:
+      213: 21300272
+    second: jabba talk_136
+  - first:
+      213: 21300274
+    second: jabba talk_137
+  - first:
+      213: 21300276
+    second: jabba talk_138
+  - first:
+      213: 21300278
+    second: jabba talk_139
+  - first:
+      213: 21300280
+    second: jabba talk_140
+  - first:
+      213: 21300282
+    second: jabba talk_141
+  - first:
+      213: 21300284
+    second: jabba talk_142
+  - first:
+      213: 21300286
+    second: jabba talk_143
+  - first:
+      213: 21300288
+    second: jabba talk_144
+  - first:
+      213: 21300290
+    second: jabba talk_145
+  - first:
+      213: 21300292
+    second: jabba talk_146
+  - first:
+      213: 21300294
+    second: jabba talk_147
+  - first:
+      213: 21300296
+    second: jabba talk_148
+  - first:
+      213: 21300298
+    second: jabba talk_149
+  - first:
+      213: 21300300
+    second: jabba talk_150
+  - first:
+      213: 21300302
+    second: jabba talk_151
+  - first:
+      213: 21300304
+    second: jabba talk_152
+  - first:
+      213: 21300306
+    second: jabba talk_153
+  - first:
+      213: 21300308
+    second: jabba talk_154
+  - first:
+      213: 21300310
+    second: jabba talk_155
+  - first:
+      213: 21300312
+    second: jabba talk_156
+  - first:
+      213: 21300314
+    second: jabba talk_157
+  - first:
+      213: 21300316
+    second: jabba talk_158
+  - first:
+      213: 21300318
+    second: jabba talk_159
+  - first:
+      213: 21300320
+    second: jabba talk_160
+  - first:
+      213: 21300322
+    second: jabba talk_161
+  - first:
+      213: 21300324
+    second: jabba talk_162
+  - first:
+      213: 21300326
+    second: jabba talk_163
+  - first:
+      213: 21300328
+    second: jabba talk_164
+  - first:
+      213: 21300330
+    second: jabba talk_165
+  - first:
+      213: 21300332
+    second: jabba talk_166
+  - first:
+      213: 21300334
+    second: jabba talk_167
+  - first:
+      213: 21300336
+    second: jabba talk_168
+  - first:
+      213: 21300338
+    second: jabba talk_169
+  - first:
+      213: 21300340
+    second: jabba talk_170
+  - first:
+      213: 21300342
+    second: jabba talk_171
+  - first:
+      213: 21300344
+    second: jabba talk_172
+  - first:
+      213: 21300346
+    second: jabba talk_173
+  - first:
+      213: 21300348
+    second: jabba talk_174
+  - first:
+      213: 21300350
+    second: jabba talk_175
+  - first:
+      213: 21300352
+    second: jabba talk_176
+  - first:
+      213: 21300354
+    second: jabba talk_177
+  - first:
+      213: 21300356
+    second: jabba talk_178
+  - first:
+      213: 21300358
+    second: jabba talk_179
+  - first:
+      213: 21300360
+    second: jabba talk_180
+  - first:
+      213: 21300362
+    second: jabba talk_181
+  - first:
+      213: 21300364
+    second: jabba talk_182
+  - first:
+      213: 21300366
+    second: jabba talk_183
+  - first:
+      213: 21300368
+    second: jabba talk_184
+  - first:
+      213: 21300370
+    second: jabba talk_185
+  - first:
+      213: 21300372
+    second: jabba talk_186
+  - first:
+      213: 21300374
+    second: jabba talk_187
+  - first:
+      213: 21300376
+    second: jabba talk_188
+  - first:
+      213: 21300378
+    second: jabba talk_189
+  - first:
+      213: 21300380
+    second: jabba talk_190
+  - first:
+      213: 21300382
+    second: jabba talk_191
+  - first:
+      213: 21300384
+    second: jabba talk_192
+  - first:
+      213: 21300386
+    second: jabba talk_193
+  - first:
+      213: 21300388
+    second: jabba talk_194
+  - first:
+      213: 21300390
+    second: jabba talk_195
+  - first:
+      213: 21300392
+    second: jabba talk_196
+  - first:
+      213: 21300394
+    second: jabba talk_197
+  - first:
+      213: 21300396
+    second: jabba talk_198
+  - first:
+      213: 21300398
+    second: jabba talk_199
+  - first:
+      213: 21300400
+    second: jabba talk_200
+  - first:
+      213: 21300402
+    second: jabba talk_201
+  - first:
+      213: 21300404
+    second: jabba talk_202
+  - first:
+      213: 21300406
+    second: jabba talk_203
+  - first:
+      213: 21300408
+    second: jabba talk_204
+  - first:
+      213: 21300410
+    second: jabba talk_205
+  - first:
+      213: 21300412
+    second: jabba talk_206
+  - first:
+      213: 21300414
+    second: jabba talk_207
+  - first:
+      213: 21300416
+    second: jabba talk_208
+  - first:
+      213: 21300418
+    second: jabba talk_209
+  - first:
+      213: 21300420
+    second: jabba talk_210
+  - first:
+      213: 21300422
+    second: jabba talk_211
+  - first:
+      213: 21300424
+    second: jabba talk_212
+  - first:
+      213: 21300426
+    second: jabba talk_213
+  - first:
+      213: 21300428
+    second: jabba talk_214
+  - first:
+      213: 21300430
+    second: jabba talk_215
+  - first:
+      213: 21300432
+    second: jabba talk_216
+  - first:
+      213: 21300434
+    second: jabba talk_217
+  - first:
+      213: 21300436
+    second: jabba talk_218
+  - first:
+      213: 21300438
+    second: jabba talk_219
+  - first:
+      213: 21300440
+    second: jabba talk_220
+  - first:
+      213: 21300442
+    second: jabba talk_221
+  - first:
+      213: 21300444
+    second: jabba talk_222
+  - first:
+      213: 21300446
+    second: jabba talk_223
+  - first:
+      213: 21300448
+    second: jabba talk_224
+  - first:
+      213: 21300450
+    second: jabba talk_225
+  - first:
+      213: 21300452
+    second: jabba talk_226
+  - first:
+      213: 21300454
+    second: jabba talk_227
+  - first:
+      213: 21300456
+    second: jabba talk_228
+  - first:
+      213: 21300458
+    second: jabba talk_229
+  - first:
+      213: 21300460
+    second: jabba talk_230
+  - first:
+      213: 21300462
+    second: jabba talk_231
+  - first:
+      213: 21300464
+    second: jabba talk_232
+  - first:
+      213: 21300466
+    second: jabba talk_233
+  - first:
+      213: 21300468
+    second: jabba talk_234
+  - first:
+      213: 21300470
+    second: jabba talk_235
+  - first:
+      213: 21300472
+    second: jabba talk_236
+  - first:
+      213: 21300474
+    second: jabba talk_237
+  - first:
+      213: 21300476
+    second: jabba talk_238
+  - first:
+      213: 21300478
+    second: jabba talk_239
+  - first:
+      213: 21300480
+    second: jabba talk_240
+  - first:
+      213: 21300482
+    second: jabba talk_241
+  - first:
+      213: 21300484
+    second: jabba talk_242
+  - first:
+      213: 21300486
+    second: jabba talk_243
+  - first:
+      213: 21300488
+    second: jabba talk_244
+  - first:
+      213: 21300490
+    second: jabba talk_245
+  - first:
+      213: 21300492
+    second: jabba talk_246
+  - first:
+      213: 21300494
+    second: jabba talk_247
+  - first:
+      213: 21300496
+    second: jabba talk_248
+  - first:
+      213: 21300498
+    second: jabba talk_249
+  - first:
+      213: 21300500
+    second: jabba talk_250
+  - first:
+      213: 21300502
+    second: jabba talk_251
+  - first:
+      213: 21300504
+    second: jabba talk_252
+  - first:
+      213: 21300506
+    second: jabba talk_253
+  - first:
+      213: 21300508
+    second: jabba talk_254
+  - first:
+      213: 21300510
+    second: jabba talk_255
+  - first:
+      213: 21300512
+    second: jabba talk_256
+  - first:
+      213: 21300514
+    second: jabba talk_257
+  - first:
+      213: 21300516
+    second: jabba talk_258
+  - first:
+      213: 21300518
+    second: jabba talk_259
+  - first:
+      213: 21300520
+    second: jabba talk_260
+  - first:
+      213: 21300522
+    second: jabba talk_261
+  - first:
+      213: 21300524
+    second: jabba talk_262
+  - first:
+      213: 21300526
+    second: jabba talk_263
+  - first:
+      213: 21300528
+    second: jabba talk_264
+  - first:
+      213: 21300530
+    second: jabba talk_265
+  - first:
+      213: 21300532
+    second: jabba talk_266
+  - first:
+      213: 21300534
+    second: jabba talk_267
+  - first:
+      213: 21300536
+    second: jabba talk_268
+  - first:
+      213: 21300538
+    second: jabba talk_269
+  - first:
+      213: 21300540
+    second: jabba talk_270
+  - first:
+      213: 21300542
+    second: jabba talk_271
+  - first:
+      213: 21300544
+    second: jabba talk_272
+  - first:
+      213: 21300546
+    second: jabba talk_273
+  - first:
+      213: 21300548
+    second: jabba talk_274
+  - first:
+      213: 21300550
+    second: jabba talk_275
+  - first:
+      213: 21300552
+    second: jabba talk_276
+  - first:
+      213: 21300554
+    second: jabba talk_277
+  - first:
+      213: 21300556
+    second: jabba talk_278
+  - first:
+      213: 21300558
+    second: jabba talk_279
+  - first:
+      213: 21300560
+    second: jabba talk_280
+  - first:
+      213: 21300562
+    second: jabba talk_281
+  - first:
+      213: 21300564
+    second: jabba talk_282
+  - first:
+      213: 21300566
+    second: jabba talk_283
+  - first:
+      213: 21300568
+    second: jabba talk_284
+  - first:
+      213: 21300570
+    second: jabba talk_285
+  - first:
+      213: 21300572
+    second: jabba talk_286
+  - first:
+      213: 21300574
+    second: jabba talk_287
+  - first:
+      213: 21300576
+    second: jabba talk_288
+  - first:
+      213: 21300578
+    second: jabba talk_289
+  - first:
+      213: 21300580
+    second: jabba talk_290
+  - first:
+      213: 21300582
+    second: jabba talk_291
+  - first:
+      213: 21300584
+    second: jabba talk_292
+  - first:
+      213: 21300586
+    second: jabba talk_293
+  - first:
+      213: 21300588
+    second: jabba talk_294
+  - first:
+      213: 21300590
+    second: jabba talk_295
+  - first:
+      213: 21300592
+    second: jabba talk_296
+  - first:
+      213: 21300594
+    second: jabba talk_297
+  - first:
+      213: 21300596
+    second: jabba talk_298
+  - first:
+      213: 21300598
+    second: jabba talk_299
+  - first:
+      213: 21300600
+    second: jabba talk_300
+  - first:
+      213: 21300602
+    second: jabba talk_301
+  - first:
+      213: 21300604
+    second: jabba talk_302
+  - first:
+      213: 21300606
+    second: jabba talk_303
+  - first:
+      213: 21300608
+    second: jabba talk_304
+  - first:
+      213: 21300610
+    second: jabba talk_305
+  - first:
+      213: 21300612
+    second: jabba talk_306
+  - first:
+      213: 21300614
+    second: jabba talk_307
+  - first:
+      213: 21300616
+    second: jabba talk_308
+  - first:
+      213: 21300618
+    second: jabba talk_309
+  - first:
+      213: 21300620
+    second: jabba talk_310
+  - first:
+      213: 21300622
+    second: jabba talk_311
+  - first:
+      213: 21300624
+    second: jabba talk_312
+  - first:
+      213: 21300626
+    second: jabba talk_313
+  - first:
+      213: 21300628
+    second: jabba talk_314
+  - first:
+      213: 21300630
+    second: jabba talk_315
+  - first:
+      213: 21300632
+    second: jabba talk_316
+  - first:
+      213: 21300634
+    second: jabba talk_317
+  - first:
+      213: 21300636
+    second: jabba talk_318
+  - first:
+      213: 21300638
+    second: jabba talk_319
+  - first:
+      213: 21300640
+    second: jabba talk_320
+  - first:
+      213: 21300642
+    second: jabba talk_321
+  - first:
+      213: 21300644
+    second: jabba talk_322
+  - first:
+      213: 21300646
+    second: jabba talk_323
+  - first:
+      213: 21300648
+    second: jabba talk_324
+  - first:
+      213: 21300650
+    second: jabba talk_325
+  - first:
+      213: 21300652
+    second: jabba talk_326
+  - first:
+      213: 21300654
+    second: jabba talk_327
+  - first:
+      213: 21300656
+    second: jabba talk_328
+  - first:
+      213: 21300658
+    second: jabba talk_329
+  - first:
+      213: 21300660
+    second: jabba talk_330
+  - first:
+      213: 21300662
+    second: jabba talk_331
+  - first:
+      213: 21300664
+    second: jabba talk_332
+  - first:
+      213: 21300666
+    second: jabba talk_333
+  - first:
+      213: 21300668
+    second: jabba talk_334
+  - first:
+      213: 21300670
+    second: jabba talk_335
+  - first:
+      213: 21300672
+    second: jabba talk_336
+  - first:
+      213: 21300674
+    second: jabba talk_337
+  - first:
+      213: 21300676
+    second: jabba talk_338
+  - first:
+      213: 21300678
+    second: jabba talk_339
+  - first:
+      213: 21300680
+    second: jabba talk_340
+  - first:
+      213: 21300682
+    second: jabba talk_341
+  - first:
+      213: 21300684
+    second: jabba talk_342
+  - first:
+      213: 21300686
+    second: jabba talk_343
+  - first:
+      213: 21300688
+    second: jabba talk_344
+  - first:
+      213: 21300690
+    second: jabba talk_345
+  - first:
+      213: 21300692
+    second: jabba talk_346
+  - first:
+      213: 21300694
+    second: jabba talk_347
+  - first:
+      213: 21300696
+    second: jabba talk_348
+  - first:
+      213: 21300698
+    second: jabba talk_349
+  - first:
+      213: 21300700
+    second: jabba talk_350
+  - first:
+      213: 21300702
+    second: jabba talk_351
+  - first:
+      213: 21300704
+    second: jabba talk_352
+  - first:
+      213: 21300706
+    second: jabba talk_353
+  - first:
+      213: 21300708
+    second: jabba talk_354
+  - first:
+      213: 21300710
+    second: jabba talk_355
+  - first:
+      213: 21300712
+    second: jabba talk_356
+  - first:
+      213: 21300714
+    second: jabba talk_357
+  - first:
+      213: 21300716
+    second: jabba talk_358
+  - first:
+      213: 21300718
+    second: jabba talk_359
+  - first:
+      213: 21300720
+    second: jabba talk_360
+  - first:
+      213: 21300722
+    second: jabba talk_361
+  - first:
+      213: 21300724
+    second: jabba talk_362
+  - first:
+      213: 21300726
+    second: jabba talk_363
+  - first:
+      213: 21300728
+    second: jabba talk_364
+  - first:
+      213: 21300730
+    second: jabba talk_365
+  - first:
+      213: 21300732
+    second: jabba talk_366
+  - first:
+      213: 21300734
+    second: jabba talk_367
+  - first:
+      213: 21300736
+    second: jabba talk_368
+  - first:
+      213: 21300738
+    second: jabba talk_369
+  - first:
+      213: 21300740
+    second: jabba talk_370
+  - first:
+      213: 21300742
+    second: jabba talk_371
+  - first:
+      213: 21300744
+    second: jabba talk_372
+  - first:
+      213: 21300746
+    second: jabba talk_373
+  - first:
+      213: 21300748
+    second: jabba talk_374
+  - first:
+      213: 21300750
+    second: jabba talk_375
+  - first:
+      213: 21300752
+    second: jabba talk_376
+  - first:
+      213: 21300754
+    second: jabba talk_377
+  - first:
+      213: 21300756
+    second: jabba talk_378
+  - first:
+      213: 21300758
+    second: jabba talk_379
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 280
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jabba talk_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1358
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1d4aa803310814a9b982ae3a95becd
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1358
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b5e4be8c9d074c99092f7307829a8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_2
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1358
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad8bc763f51eb43ba4564b828fc8bf
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_3
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1358
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10161595588a4674cb2dc6f2ec675e60
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_4
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1358
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcfac3c311967948b7246a0b33bd435
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_5
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1358
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139324cabf4957149952a6b5586a6e24
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_6
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1358
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc9665e3894ac4c8170faf82555fe7
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_7
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1163
+        width: 195
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c8513051783cd479825be188f55315
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_8
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 1163
+        width: 196
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c98794504c92c740ae0027fa36c1b65
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 970
+        width: 195
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807b6d6b0fceec4468f006be262adf3f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 970
+        width: 195
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969910c4629d6264abdb8cce3c61dca6
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_11
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 970
+        width: 194
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1be1e27eb84f144bcbc9cee70c9556
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_12
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 970
+        width: 195
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693fec82c070ee44f82e1c437cfdc5d1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_13
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 970
+        width: 194
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8dec8de4930bd47ac85cd75bffde09
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_14
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 970
+        width: 194
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6b9e3b057af174890ed43370dc14c0
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_15
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 970
+        width: 191
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99663226e1b916a4e9e87fad9d99609c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_16
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 970
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1213e0554ad1d0e4aa4e909851eef102
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_17
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 970
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2069feac41ab8244bef3ea135f30e0f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 775
+        width: 198
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d53312e2fb7ac459aac55fb03ab48f
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 775
+        width: 197
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6208cac84a2bcc84e9a1e51f7bcd239b
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_20
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 775
+        width: 198
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7540bf96b907aaa4884a77708c3405e4
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_21
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 775
+        width: 199
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed17023cf6c37443879daea4071954d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_22
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 775
+        width: 198
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f5f28f7c9523948900e4a06f44e958
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_23
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 775
+        width: 200
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa3a3f4d6bc54e479556c69c33575bf
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_24
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 775
+        width: 198
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8189cd4166abc1d4092cf24ef7a5d9a2
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_25
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 775
+        width: 198
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11138d21c1c9f194f8894c4b9a3337d7
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_26
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 775
+        width: 198
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22265ac97d07d6543b3c948a51587fb9
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 582
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa94bf02704676479bac8d7c37830ac
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_28
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 581
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d69ab9a9bca704d92f691e28c1036a
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_29
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 582
+        width: 193
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d6189d079a0d14f9f34aebf6986a97
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_30
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 582
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e125db4a49705004aa21af179c9735d5
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_31
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 582
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eca2ccd56820044b017839c707b5b1
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_32
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 582
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7add6f4cf6f545f42951ba236109a520
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_33
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 582
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad22489924b9145befee52e15bfcf0
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_34
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 582
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43a8e88039950547b4395b912eecfa7
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_35
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 582
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119b8322c5ab2ea48b6565cbad935f21
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_36
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 388
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7d50e3d2de6914cb04307369c1cef5
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 388
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4429bf6d29d6b264099cc90f4e945ba9
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_38
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 388
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54829715be65304a96744db8e235c9d
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_39
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 388
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e2700fde4c5b6429a3991f76e791ff
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_40
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 388
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056533b61283fc74584b5ac9d2b29421
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_41
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 388
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27728e32b2224b9498e69205c5f19b97
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_42
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 388
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f9ce7a6b0ec342871ed8fc7d180d6
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_43
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 388
+        width: 195
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc26e431de8a174f8223ce4e4ee46bd
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_44
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 388
+        width: 196
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d61cc8d808bf047b9bc780d6877930
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_45
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 194
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aa550d8c47f9141a211ffcd7cc3b17
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_46
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 194
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dfa45a3a6115440b34c011779626b3
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_47
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 194
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b82de2939deb84b81a53d0828d8a79
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_48
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 194
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d9c020844e2b7498eceecc53321919
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_49
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 194
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a07f77507e6e4144a0971368b5bef3e
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_50
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 194
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cfc9b2cf442564991506c9ecae3812
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_51
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 194
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710b5effc56eebd4ba3fef8fed9c61a1
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_52
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 194
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d63223c4356a949952c956f6b6872f
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_53
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 194
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3242201c43856734f98eef857d4cb065
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061349606cdee794fa14938218290b85
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc94eb993696b4598ab21609ea419d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_56
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83674b9a341c7704594ed7f9175700fa
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_57
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 0
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42439ec6f014bc44926033e0135fe08
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_58
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 0
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530189d8bd42fec47984f1e7c39cb516
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_59
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 0
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f5f6df91846004d87d409a18933608
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_60
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939654ad766b88d428d7af3929d881ed
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_61
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 0
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9d30d954ea1b8449011fd92d1dca73
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba talk_62
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 0
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d3da6dc6a910a4f92bc2b00e9d2471
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 363ec58587abe2f4f81d13efddee1e8f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
